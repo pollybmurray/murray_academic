@@ -2,8 +2,7 @@
 title: Polly B. Murray, PhD
 role: Postdoctoral Research Fellow
 avatar_filename: portrait.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Numerical Modeling
   - Earthquake Engineering
@@ -24,9 +23,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/pollybmurray/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 organizations:
   - name: University of Alaska Anchorage
     url: https://www.uaa.alaska.edu/
@@ -37,18 +36,17 @@ education:
       year: 2021
     - course: MS in Civil Engineering
       institution: University of Colorado Boulder
-      year: 2015
+      year: 2018
     - course: BS in Civil Engineering
       institution: Tufts Univeristy
-      year: 2009
+      year: 2014
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Murray
 highlight_name: true
-first_name: Alice
+first_name: Polly
 email: ""
 ---
-I'm a postdoctoral research fellow at the University of Alaska Anchorage, where I study the seismic risk of wood-frame structures and teach students the joys of MATLAB. I co-chair of EERI's <a href="https://www.eeri.org/ymc">Younger Members Committee</a>. 
-I﻿n 2021, I completed my PhD at the University of Colorado Boulder, where I studied the seismic performance of reinforced concrete structures as part of the Liel Research Group.
+I'm a postdoctoral research fellow at the University of Alaska Anchorage, where I study the seismic risk of wood-frame structures and teach students the joys of MATLAB. I co-chair of EERI's <a href="https://www.eeri.org/ymc">Younger Members Committee</a>. In 2021, I completed my PhD at the University of Colorado Boulder, where I studied the seismic performance of reinforced concrete structures as part of the Liel Research Group.
 {style="text-align: justify;"}

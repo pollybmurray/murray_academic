@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 title: Seismic safety of informally constructed reinforced concrete houses in Puerto Rico
 doi: https://doi.org/10.1177/87552930221123085
-featured: true
+featured: false
 tags: []
 projects: []
 image:
