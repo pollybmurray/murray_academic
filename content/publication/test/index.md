@@ -1,7 +1,7 @@
 ---
 title: test
 publication_types:
-  - "0"
+  - "2"
 authors:
   - murray
 draft: false
