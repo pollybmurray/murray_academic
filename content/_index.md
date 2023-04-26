@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Polly B. Murray
+title: 
 date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
+  # - block: hero
+  #   content:
       # title: Hugo Academic Theme
       # image:
       #   filename: hero-academic.png
@@ -30,11 +30,11 @@ sections:
       #   <div class="mb-3"></div>
       #   <!--GitHub Button JS-->
       #   <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+    # design:
+    #   background:
+    #     gradient_end: '#1976d2'
+    #     gradient_start: '#004ba0'
+    #     text_color_light: true
   - block: about.avatar
     id: about
     content:
