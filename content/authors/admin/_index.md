@@ -2,7 +2,7 @@
 title: Polly B. Murray, PhD
 role: Postdoctoral Research Fellow
 avatar_filename: portrait.jpg
-bio: "test bio"
+bio: ""
 interests:
   - Numerical Modeling
   - Earthquake Engineering
