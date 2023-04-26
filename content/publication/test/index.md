@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - murray
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
