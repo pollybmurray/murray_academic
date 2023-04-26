@@ -1,68 +1,69 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
+abstract: More than 1.6 billion people worldwide live in informally constructed
+  houses, many of which are reinforced with concrete. Patterns of past
+  earthquake damage suggest that these homes have significant seismic
+  vulnerabilities, endangering their occupants. The characteristics of these
+  houses vary widely with local building practices. In addition, these
+  vulnerabilities are potentially exacerbated by incremental construction
+  practices and building practices that address wind/flood risk in multi-hazard
+  environments. Yet, despite the ubiquity of this type of construction, there
+  have not been efforts to systematically assess the seismic risks to support
+  risk-reducing design and construction strategies. In this study, we developed
+  a method to assess the seismic collapse capacity of informally constructed
+  housing that accounts for local building practices and materials, quantifying
+  the effect of building characteristics on collapse risk. We exercise the
+  method to assess seismic performance of housing in the US. Caribbean Island of
+  Puerto Rico, which has high seismic hazard and experiences frequent
+  hurricanes. This analysis showed that heavy construction, often due to the
+  addition of a second story, and the presence of an open ground story leads to
+  a high collapse risk. Severely corroded steel bars could also worsen
+  performance. Although houses with infill performed better than those with an
+  open ground story, confined masonry construction techniques produced a major
+  reduction in collapse risk when compared to infilled or open-frame
+  construction. Infill construction with partial height walls performed very
+  poorly. Well-built reinforced concrete column jackets and the addition of
+  infill in open first-story bays can reduce the greater risks of
+  open-ground-story houses. These findings, which are quantified in the results
+  portion of this article, are intended to support the development of design and
+  construction recommendations for safer housing.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "2"
+authors:
+  - Polly B Murray
+  - ""
+  - Dirsa Feliciano
+  - Briar H Goldwyn
+  - Abbie B Liel
+  - Orlando Arroyo
+  - and Amy Javernick-W
+author_notes: []
+publication: Earthquake Spectra
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Seismic safety of informally constructed reinforced concrete houses in
+  Puerto Rico
+doi: https://doi.org/10.1177/87552930221123085
+featured: false
+tags:
+  - Source Themes
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: Open ground story house damaged in the 2020 earthquake series in
+    Guanica, Puerto Rico
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: fig2a.jpg
+date: 2015-09-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
