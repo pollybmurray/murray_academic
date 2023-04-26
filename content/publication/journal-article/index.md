@@ -36,7 +36,7 @@ authors:
   - Briar H Goldwyn
   - Abbie B Liel
   - Orlando Arroyo
-  - and Amy Javernick-W
+  - and Amy Javernick-Will
 author_notes: []
 publication: Earthquake Spectra
 summary: ""
@@ -63,4 +63,3 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
