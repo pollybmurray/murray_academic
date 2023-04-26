@@ -32,7 +32,6 @@ publication_types:
   - "2"
 authors:
   - Polly B Murray
-  - ""
   - Dirsa Feliciano
   - Briar H Goldwyn
   - Abbie B Liel
@@ -50,8 +49,7 @@ title: Seismic safety of informally constructed reinforced concrete houses in
   Puerto Rico
 doi: https://doi.org/10.1177/87552930221123085
 featured: false
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: Open ground story house damaged in the 2020 earthquake series in
@@ -59,19 +57,10 @@ image:
   focal_point: ""
   preview_only: false
   filename: fig2a.jpg
-date: 2015-09-01T00:00:00Z
+date: 2022-09-22T18:18:34.484Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
