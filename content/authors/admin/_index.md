@@ -48,5 +48,5 @@ highlight_name: true
 first_name: Polly
 email: ""
 ---
-I'm a postdoctoral research fellow at the University of Alaska Anchorage, where I study the seismic risk of wood-frame structures and teach students the joys of MATLAB. I co-chair of EERI's <a href="https://www.eeri.org/ymc">Younger Members Committee</a>. In 2021, I completed my PhD at the University of Colorado Boulder, where I studied the seismic performance of reinforced concrete structures as part of the Liel Research Group.
+I'm a postdoctoral research fellow at the University of Alaska Anchorage, where I study the seismic risk of wood-frame structures and teach students the joys of MATLAB. I co-chair of EERI's Younger Members Committee. In 2021, I completed my PhD at the University of Colorado Boulder, where I studied the seismic performance of reinforced concrete structures as part of the Liel Research Group.
 {style="text-align: justify;"}
